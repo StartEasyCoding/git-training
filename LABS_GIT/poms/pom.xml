@@ -16,6 +16,7 @@
     <module>jobs/process/job4_0.1</module>
     <module>jobs/process/job4_0.2</module>
     <module>jobs/process/job5_0.2</module>
+    <module>jobs/process/job6_0.2</module>
   </modules>
   <properties>
     <talend.project.name>LABS_GIT</talend.project.name>
